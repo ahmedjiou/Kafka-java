@@ -1,0 +1,15 @@
+1747902639426:whoami
+1747903036113:byebye
+1747904326041:lister-clients
+1747904348547:traduire --txt bonjour
+1747904381921:byebye
+1747904496558:traduire --txt bonjour
+1747904567898:lister-clients
+1747904590908:traduire --txt salamaleykoum
+1747904608961:traduire --txt Bonjour sale chien
+1747904648449:message --msg nique les noirs --dst ClientB
+1747904668995:message --msg bonjour sale noir --dst ClientB
+1747904772057:is-connected --client ClientB
+1747904782795:deconnecter-client
+1747904797703:enregistrer-client
+1747905938197:byebye

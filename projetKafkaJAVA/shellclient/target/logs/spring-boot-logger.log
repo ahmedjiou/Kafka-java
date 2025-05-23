@@ -1,0 +1,41 @@
+2025-05-22 04:29:33,092 Enregistrement du client
+2025-05-22 04:29:33,093 #### -> ClientA: Envoi du message -> CONNECT:ClientA
+2025-05-22 04:29:33,093 Attente Kafka, 60 secondes.
+2025-05-22 04:29:33,631 #### -> ClientA: Envoi du message -> GET:ClientA
+2025-05-22 04:29:33,633 Attente Kafka, 60 secondes.
+2025-05-22 04:29:50,936 #### -> ClientA: Reception du message Technique de GET -> [ClientA, ClientA]
+2025-05-22 04:30:26,603 #### -> ClientA: Reception du message Technique de GET -> [ClientA, ClientA]
+2025-05-22 04:30:39,500 #### -> Votre nom de login est : ClientA
+2025-05-22 04:30:39,500 Vous êtes connecté sur kafka vers : localhost:9092
+2025-05-22 04:37:16,135 Fermeture du client ClientA
+2025-05-22 04:38:01,492 Enregistrement du client
+2025-05-22 04:38:01,496 #### -> ClientA: Envoi du message -> CONNECT:ClientA
+2025-05-22 04:38:01,496 Attente Kafka, 60 secondes.
+2025-05-22 04:38:02,115 #### -> ClientA: Envoi du message -> GET:ClientA
+2025-05-22 04:38:02,119 Attente Kafka, 60 secondes.
+2025-05-22 04:38:14,719 #### -> ClientA: Reception du message Technique de GET -> [ClientA, ClientA]
+2025-05-22 04:40:03,629 Fermeture du client ClientA
+2025-05-22 04:47:03,816 Enregistrement du client
+2025-05-22 04:47:03,818 #### -> ClientA: Envoi du message -> CONNECT:ClientA
+2025-05-22 04:47:03,818 Attente Kafka, 60 secondes.
+2025-05-22 04:47:04,420 #### -> ClientA: Envoi du message -> GET:ClientA
+2025-05-22 04:47:04,426 Attente Kafka, 60 secondes.
+2025-05-22 04:51:05,125 Fermeture du client ClientA
+2025-05-22 04:58:31,102 Enregistrement du client
+2025-05-22 04:58:31,107 #### -> ClientA: Envoi du message -> CONNECT:ClientA
+2025-05-22 04:58:31,107 Attente Kafka, 60 secondes.
+2025-05-22 04:58:31,682 #### -> ClientA: Envoi du message -> GET:ClientA
+2025-05-22 04:58:31,684 Attente Kafka, 60 secondes.
+2025-05-22 04:58:46,123 #### -> ClientA: Reception du message Technique de GET -> [ClientA, ClientB]
+2025-05-22 04:59:41,950 Fermeture du client ClientA
+2025-05-22 05:01:25,487 Enregistrement du client
+2025-05-22 05:01:25,489 #### -> ClientA: Envoi du message -> CONNECT:ClientA
+2025-05-22 05:01:25,489 Attente Kafka, 60 secondes.
+2025-05-22 05:01:26,086 #### -> ClientA: Envoi du message -> GET:ClientA
+2025-05-22 05:01:26,086 Attente Kafka, 60 secondes.
+2025-05-22 05:01:38,701 #### -> De la part de ClientA : Message -> hello
+2025-05-22 05:02:47,926 #### -> ClientA: Reception du message Technique de GET -> [ClientA, ClientB]
+2025-05-22 05:03:11,464 #### -> De la part de ClientA : Message -> salamaleykoum
+2025-05-22 05:03:29,133 #### -> De la part de ClientA : Message -> Hello, dirty, dog
+2025-05-22 05:06:12,098 #### -> ClientA: Reception du message Technique de ISCONNECTED -> ClientBis connected
+2025-05-22 05:25:38,220 Fermeture du client ClientA
